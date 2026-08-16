@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+19_t800_walk_log.csv
